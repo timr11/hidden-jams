@@ -1,2 +1,18 @@
 milestones.md
 
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore other common files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+*.idea/
+*.vscode/
+*.env
+*.venv
+
